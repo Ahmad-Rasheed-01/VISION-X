@@ -3,7 +3,8 @@
 
 ![Script_Preview](/VISION-X_Interface.png)
 
-
+## Contribution
+You can contribute to my project by submitting issues or pulling a request.
 
 ## License
 
