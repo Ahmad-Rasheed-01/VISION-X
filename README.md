@@ -1,4 +1,4 @@
-<h1 align="center">VISION-X</h1>
+<h1 align="center">VISION-X Intrusion Detection System</h1>
 <br>
 
 ![Script_Preview](/VISION-X_Interface.png)
